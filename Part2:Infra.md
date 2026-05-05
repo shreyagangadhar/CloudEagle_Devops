@@ -1,8 +1,3 @@
-# sync-service — GCP Infrastructure Design
-
-> Spring Boot · MongoDB Atlas · Startup Edition · ~$75–90/month
-
----
 
 ## 1. Architecture
 
