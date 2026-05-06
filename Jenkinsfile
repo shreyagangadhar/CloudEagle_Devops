@@ -241,7 +241,7 @@ def deployRolling(List vms) {
         echo "${vm.name} healthy — continuing roll"
     }
 }
-/ -----------------------------------------------------------------------------
+// -----------------------------------------------------------------------------
 // Blue/Green deploy — used for Prod only.
 //
 // VM tag convention:
